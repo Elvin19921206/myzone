@@ -31,9 +31,9 @@
 
 * download ShadowsocksR 
 > windows地址：https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases                           
-> mac地址：https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
-> ios地址：https://github.com/j-proxy/iossos
-> linux地址：https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr
+> mac地址：https://github.com/qinyuhang/ShadowsocksX-NG-R/releases                       
+> ios地址：https://github.com/j-proxy/iossos                                       
+> linux地址：https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr                
 > 安卓地址：https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
 
 Do some changes! thank you
