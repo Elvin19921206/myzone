@@ -21,19 +21,29 @@
 > 建议的配置 
 
 > > 端口：443 
+
 > > 加密：chacha20 
+
 > > 协议：auth_sha1_v4 
+
 > > 混淆：http_simple 
 
-> 安装libsodium，chacha20加密协议
-> 安装BBR和封禁垃圾端口
+
+* 安装libsodium，chacha20加密协议
+
+* 安装BBR和封禁垃圾端口
+
 > 注意：是否终止内核时选择NO
 
 * download ShadowsocksR 
 > windows地址：https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases
+
 > mac地址：https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
+
 > ios地址：https://github.com/j-proxy/iossos
+
 > linux地址：https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr
+
 > 安卓地址：https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
 
 Do some changes! thank you
