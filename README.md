@@ -29,7 +29,7 @@ bash ssr.sh
 安装BBR和封禁垃圾端口
 注意：是否终止内核时选择NO
 
-download ShadowsocksR 
+* download ShadowsocksR 
 windows地址：https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases
 mac地址：https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
 ios地址：https://github.com/j-proxy/iossos
