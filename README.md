@@ -1,12 +1,13 @@
 
 ## 自建梯子：
 
-  vultr购买服务器 https://www.vultr.com/?ref=7303716 
+* vultr购买服务器 https://www.vultr.com/?ref=7303716 
 
-建议购买/Debian 7 x64/centOs/unbutu 
+* 建议购买/Debian 7 x64/centOs/unbutu 
 
-xshell 远程连接到服务器/ssh 
-安装wget(Web Get) 
+* xshell 远程连接到服务器/ssh 
+* 安装wget(Web Get) 
+
 apt-get install wget | yum -y install wget 
 
 拷贝安装一键管理脚本 
