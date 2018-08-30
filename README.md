@@ -30,7 +30,7 @@
 > 注意：是否终止内核时选择NO
 
 * download ShadowsocksR 
-> windows地址：https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases
+> windows地址：https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases                           
 > mac地址：https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
 > ios地址：https://github.com/j-proxy/iossos
 > linux地址：https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr
