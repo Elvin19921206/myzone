@@ -10,12 +10,13 @@
 
 apt-get install wget | yum -y install wget 
 
-拷贝安装一键管理脚本 
+* 拷贝安装一键管理脚本 
+
 wget -N --no-check-certificate https://softs.fun/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh 
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 之后输入1，安装ShadowsocksR服务端，并且会提示你输入ShadowsocksR的 端口/密码/加密方式/ 协议/混淆（混淆和协议是通过输入数字选择的） 等参数。
 
-管理脚本的命令：
+* 管理脚本的命令：
 bash ssr.sh 
 建议的配置 
 
