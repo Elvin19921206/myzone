@@ -1,7 +1,7 @@
 
 ## 自建梯子：
 
-* vultr购买服务器 https://www.vultr.com/?ref=7303716 
+> * vultr购买服务器 https://www.vultr.com/?ref=7303716 
 
 * 建议购买/Debian 7 x64/centOs/unbutu 
 
